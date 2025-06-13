@@ -50,6 +50,9 @@ A lot of the data is stored within the Attributes so may require other integrati
 - [ ] Add to Home Assistant Integrations.
 
 
+## Home Assisstant Feedback
+Please leave any feedback, comments etc on Home Assistant Community...  
+https://community.home-assistant.io/t/utilita-energy-uk-utility-sensors/901143
 
 <br/> <br/>
 > [!WARNING]
