@@ -49,6 +49,8 @@ A lot of the data is stored within the Attributes so may require other integrati
 - [ ] Add Service Call to update sensors on request.
 - [ ] Add to Home Assistant Integrations.
 
+- [ ] Fix "Detected that custom integration 'utilita' sets option flow config_entry explicitly, which is deprecated at custom_components/utilita/config_flow.py, line 100: self.config_entry = config_entry. This will stop working in Home Assistant 2025.12, please report it to the author of the 'utilita' custom integration"
+
 
 ## Home Assisstant Feedback
 Please leave any feedback, comments etc on Home Assistant Community...  
