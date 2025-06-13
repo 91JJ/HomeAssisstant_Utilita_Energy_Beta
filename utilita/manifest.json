@@ -1,0 +1,12 @@
+{
+  "domain": "utilita",
+  "name": "Utilita Energy",
+  "version": "1.0.0",
+  "documentation": "https://github.com/91JJ/HomeAssisstant_Utilita_Energy_Beta",
+  "requirements": [],
+  "codeowners": ["@91JJ"],
+  "iot_class": "cloud_polling",
+  "config_flow": true,
+  "options": true,
+  "icon": "https://github.com/home-assistant/brands/tree/master/custom_integrations/utilita"
+}
