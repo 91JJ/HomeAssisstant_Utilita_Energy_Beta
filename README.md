@@ -45,7 +45,7 @@ A lot of the data is stored within the Attributes so may require other integrati
 
 ## To-Do
 - [x] Open Beta. :tada:
-- [ ] Create icon & publish to Brands. (In Progress - https://github.com/home-assistant/brands/pull/7248)
+- [X] Create icon & publish to Brands. (Completed :tada: - https://github.com/home-assistant/brands/pull/7248#pullrequestreview-2967758252)
 - [ ] Add Service Call to update sensors on request.
 - [ ] Add to Home Assistant Integrations.
 
